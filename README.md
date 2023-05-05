@@ -2,7 +2,9 @@
 # Sensor data - Microservice
 
 This is a Python-based microservice that uses FastAPI and SQLAlchemy to provide a simple API for managing sensor data. This microservice also includes a watchdog that checks the status of other services and sends notifications to a Discord channel if any of the services go down.
-Installation
+
+## Installation
+
 To run the microservice, you need to have Docker and Docker Compose installed on your system. After installing Docker and Docker Compose, clone the repository and navigate to the root directory of the project. 
 
 Then run the following command:
