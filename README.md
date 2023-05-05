@@ -11,8 +11,9 @@ docker-compose up
 
 This command will build the Docker image and start the container.
 Usage
-After starting the container, you can access the API by navigating to <a href="http://localhost:8000/docs" target="_new">http://localhost:8000/docs</a>. This will open the Swagger UI, where you can test the different endpoints of the API.
-Running Tests
+After starting the container, you can access the API by navigating to <a href="http://localhost:5000/docs" target="_new">http://localhost:5000/sensor_data</a>. Where you can test the different endpoints of the API.
+
+## Running Tests
 To run the tests, you can use the following command:
 bash
 bash
